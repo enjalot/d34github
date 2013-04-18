@@ -29,7 +29,9 @@ currently building tools and visualizing data at [lever.co](http://lever.co)
 
   get an overview  
   look for outliers  
+  [love + death](http://tributary.io/inlet/5411013)  
   explore subsets of your data  
+  
 
 ### count & aggregate with filters  
 
