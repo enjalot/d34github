@@ -11,9 +11,9 @@ currently building tools and visualizing data at [lever.co](http://lever.co)
   
 ### d3 is about mapping between spaces  
   
-  [space](http://tributary.io/inlet/3714774/)
-  [color](http://tributary.io/inlet/2958632/)
-  [time](http://tributary.io/inlet/5175430)  
+  [space](http://tributary.io/inlet/3714774/)  
+  [color](http://tributary.io/inlet/2958632/)  
+  [time](http://tributary.io/inlet/5175430)   
   [animation](http://tributary.io/inlet/2958511/)  
   [interaction](http://tributary.io/inlet/3127156/)  
   [simulation](http://tributary.io/inlet/5410521)  
