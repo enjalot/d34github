@@ -1,7 +1,7 @@
 d3 talk @ github
 =========
 
-## background
+### background
 i've been pixel flipping and bit shifting for a while.  
 most recently came from [scientific visualization](http://enja.org/2010/12/16/particles-in-bge-fluids-in-real-time-with-opencl/)  
 learned d3 while at [visual.ly](visual.ly) building tools to enable designers  
@@ -10,8 +10,8 @@ currently building tools and visualizing data at [lever.co](http://lever.co)
 [tributary.io](http://tributary.io)  
 
 ### prototyping
-  [calendar](http://tributary.io/inlet/4150164/)
-  [phase change](http://tributary.io/inlet/5410521)
+  [calendar](http://tributary.io/inlet/4150164/)  
+  [phase change](http://tributary.io/inlet/5410521)  
 
 ### d3 can help the data visualization process end to end
 
@@ -38,15 +38,20 @@ currently building tools and visualizing data at [lever.co](http://lever.co)
 
 [crossfilter.js](http://square.github.io/crossfilter/)  
 easy to interactively get to individual records counted in an aggregate  
-easy to share (gist + blocks/tributary)  
-[e.g. with d3](http://tributary.io/inlet/5061827)
+[e.g. with d3](http://tributary.io/inlet/5061827)  
+
+### <3 github
+gists power tributary, made it much easier to share code snippets and collaborate  
+i would love to see "virality" of gists visualized  
+forking rules prevent pure git visualizations of a gists network/history (can't fork own gist)  
 
 
 ## reference
 
 [tributary.io](http://tributary.io)  
+[d3 api](https://github.com/mbostock/d3/wiki/API-Reference)  
 [d3 examples](http://biovisualize.github.io/d3visualization/#visualizationType=all)  
-[a fun difficult intro to d3](http://macwright.org/presentations/dcjq/)
+[a fun difficult intro to d3](http://macwright.org/presentations/dcjq/)  
 mixtapes: [dot enter](http://enjalot.github.com/dot-enter/) + [dot append](http://enjalot.github.com/dot-append/)  
 [mike's blog](http://bost.ocks.org/mike/)  
 [mike's blocks](http://bl.ocks.org/mbostock)  
