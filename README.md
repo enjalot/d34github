@@ -1,4 +1,4 @@
-d3 talk @ github
+my d3 process
 =========
 
 ### background
@@ -8,10 +8,15 @@ learned d3 while at [visual.ly](visual.ly) building tools to enable designers
 currently building tools and visualizing data at [lever.co](http://lever.co)  
  
 [tributary.io](http://tributary.io)  
-
-### prototyping
-  [calendar](http://tributary.io/inlet/4150164/)  
-  [phase change](http://tributary.io/inlet/5410521)  
+  
+### d3 is about mapping between spaces  
+  
+  [space](http://tributary.io/inlet/3714774/)
+  [color](http://tributary.io/inlet/2958632/)
+  [time](http://tributary.io/inlet/5175430)  
+  [animation](http://tributary.io/inlet/2958511/)  
+  [interaction](http://tributary.io/inlet/3127156/)  
+  [simulation](http://tributary.io/inlet/5410521)  
 
 ### d3 can help the data visualization process end to end
 
@@ -25,14 +30,6 @@ currently building tools and visualizing data at [lever.co](http://lever.co)
   get an overview  
   look for outliers  
   explore subsets of your data  
-  
-### d3 is about mapping between spaces  
-  
-  [time](http://tributary.io/inlet/5175430)  
-  [animation](http://tributary.io/inlet/2958511/)  
-  [interaction](http://tributary.io/inlet/3127156/)  
-  [simulation](http://tributary.io/inlet/5410521)  
-
 
 ### count & aggregate with filters  
 
