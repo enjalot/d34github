@@ -6,8 +6,7 @@ i've been pixel flipping and bit shifting for a while.
 most recently came from [scientific visualization](http://enja.org/2010/12/16/particles-in-bge-fluids-in-real-time-with-opencl/)  
 learned d3 while at [visual.ly](visual.ly) building tools to enable designers  
 currently building tools and visualizing data at [lever.co](http://lever.co)  
- 
-[tributary.io](http://tributary.io)  
+and hacking on [tributary.io](http://tributary.io)  
 
 <br/>  
 <br/>  
@@ -38,8 +37,10 @@ currently building tools and visualizing data at [lever.co](http://lever.co)
 
   get an overview  
   look for outliers  
-  [love + death](http://tributary.io/inlet/5411013)  
   explore subsets of your data  
+  case studies:  
+    [love + death](http://tributary.io/inlet/5411013)  
+    [temperatures](http://halftone.co/projects/temperatures/#)  
     
 <br/>  
 <br/>  
