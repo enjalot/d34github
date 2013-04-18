@@ -8,6 +8,9 @@ learned d3 while at [visual.ly](visual.ly) building tools to enable designers
 currently building tools and visualizing data at [lever.co](http://lever.co)  
  
 [tributary.io](http://tributary.io)  
+
+<br/>  
+<br/>  
   
 ### d3 is about mapping between spaces  
   
@@ -17,6 +20,9 @@ currently building tools and visualizing data at [lever.co](http://lever.co)
   [animation](http://tributary.io/inlet/2958511/)  
   [interaction](http://tributary.io/inlet/3127156/)  
   [simulation](http://tributary.io/inlet/5410521)  
+  
+<br/>  
+<br/>  
 
 ### d3 can help the data visualization process end to end
 
@@ -24,6 +30,9 @@ currently building tools and visualizing data at [lever.co](http://lever.co)
   transform data into what [d3 layouts](https://github.com/mbostock/d3/wiki/Layouts) expect  
   e.g. [stack layout](http://tributary.io/inlet/5410501)  
   [tree layouts](https://github.com/mbostock/d3/wiki/Tree-Layout)
+  
+<br/>  
+<br/>  
 
 ### d3 is the best way to turn numbers into something visual
 
@@ -31,7 +40,9 @@ currently building tools and visualizing data at [lever.co](http://lever.co)
   look for outliers  
   [love + death](http://tributary.io/inlet/5411013)  
   explore subsets of your data  
-  
+    
+<br/>  
+<br/>  
 
 ### count & aggregate with filters  
 
@@ -39,11 +50,16 @@ currently building tools and visualizing data at [lever.co](http://lever.co)
 easy to interactively get to individual records counted in an aggregate  
 [e.g. with d3](http://tributary.io/inlet/5061827)  
 
+<br/>  
+<br/>  
+
 ### <3 github
 gists power tributary, made it much easier to share code snippets and collaborate  
 i would love to see "virality" of gists visualized  
 forking rules prevent pure git visualizations of a gists network/history (can't fork own gist)  
 
+<br/>  
+<br/>  
 
 ## reference
 
